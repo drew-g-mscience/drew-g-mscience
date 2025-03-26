@@ -189,7 +189,6 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>103 kB</div>
                                 <div>51.79%</div>
                             </small>
                         </div>
@@ -201,7 +200,6 @@
                                 Python
                             </div>
                             <small>
-                                <div>2.40 kB</div>
                                 <div>1.2%</div>
                             </small>
                         </div>
@@ -215,7 +213,6 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>60.3 kB</div>
                                 <div>30.12%</div>
                             </small>
                         </div>
@@ -229,7 +226,6 @@
                                 SCSS
                             </div>
                             <small>
-                                <div>18.3 kB</div>
                                 <div>9.16%</div>
                             </small>
                         </div>
@@ -243,7 +239,6 @@
                                 CSS
                             </div>
                             <small>
-                                <div>15.4 kB</div>
                                 <div>7.73%</div>
                             </small>
                         </div>
