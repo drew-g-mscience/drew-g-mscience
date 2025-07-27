@@ -9,4 +9,6 @@
 - ⚡ Fun fact: ...
 -->
 
+<!--
 ![General Metrics](/general-metrics.svg)
+-->
